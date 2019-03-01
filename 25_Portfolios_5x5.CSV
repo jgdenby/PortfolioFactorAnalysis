@@ -1,19 +1,5 @@
-This file was created by CMPT_ME_BEME_OP_INV_RETS using the 201901 CRSP database.
-It contains value- and equal-weighted returns for portfolios formed on ME and BEME.
 
-The portfolios are constructed at the end of June.  BEME is book value at the last fiscal year end of the prior calendar year
-divided by ME at the end of December of the prior year. 
-Annual returns are from January to December.
-
-Missing data are indicated by -99.99 or -999.
-
-The break points include utilities and include financials.
-
-The  portfolios  include utilities and include financials.
-
-
-  Average Value Weighted Returns -- Monthly
-,SMALL LoBM,ME1 BM2,ME1 BM3,ME1 BM4,SMALL HiBM,ME2 BM1,ME2 BM2,ME2 BM3,ME2 BM4,ME2 BM5,ME3 BM1,ME3 BM2,ME3 BM3,ME3 BM4,ME3 BM5,ME4 BM1,ME4 BM2,ME4 BM3,ME4 BM4,ME4 BM5,BIG LoBM,ME5 BM2,ME5 BM3,ME5 BM4,BIG HiBM
+SMALL LoBM,ME1 BM2,ME1 BM3,ME1 BM4,SMALL HiBM,ME2 BM1,ME2 BM2,ME2 BM3,ME2 BM4,ME2 BM5,ME3 BM1,ME3 BM2,ME3 BM3,ME3 BM4,ME3 BM5,ME4 BM1,ME4 BM2,ME4 BM3,ME4 BM4,ME4 BM5,BIG LoBM,ME5 BM2,ME5 BM3,ME5 BM4,BIG HiBM
 192607,   3.7782,  -0.4119,  -1.9434,   0.3530,   2.0534,   2.1904,   2.4192,   0.4926,  -1.5770,  -0.3344,   1.9116,   2.4336,   0.0053,   3.4572,  -1.2629,   1.5893,   1.5278,   1.1869,   0.2727,   2.4678,   3.4539,   6.0902,   2.0266,   3.1111,   0.5623
 192608,  -2.2074,  -8.7275,   2.4404,   0.6086,   8.3968,   2.1709,  -1.1849,   4.0084,   0.4643,   6.1675,  -0.9390,   2.3886,   1.9681,   4.4450,   8.1169,   1.3336,   3.8730,   2.0059,   2.1706,   5.3422,   1.0124,   4.1903,   2.0131,   5.4849,   7.7576
 192609,  -6.2113,  -0.2989,  -6.1982,  -1.6368,   0.8649,  -1.8550,  -1.2618,   1.0829,  -3.0405,  -0.9401,  -0.3898,   0.1690,  -2.1368,   2.6865,  -3.6215,   1.0923,  -0.5250,  -1.7314,   1.4646,   0.8730,  -1.2906,   3.6538,   0.0950,  -0.7487,  -2.4284
