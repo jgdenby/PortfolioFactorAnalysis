@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.6)  16 MAR 2019 22:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.6)  16 MAR 2019 23:30
 entering extended mode
 **"./Final Report_DRAFT.tex"
 ("Final Report_DRAFT.tex"
@@ -400,10 +400,7 @@ LaTeX Font Info:    Try loading font information for TS1+ptm on input line 72.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-Underfull \vbox (badness 1137) has occurred while \output is active []
-
- [1{C:/Users/ksawh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+) [1{C:/Users/ksawh/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 
@@ -433,13 +430,13 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
 ) [3] ("Final Report_DRAFT.aux") ) 
 Here is how much of TeX's memory you used:
- 3177 strings out of 492966
- 42189 string characters out of 3135724
- 106693 words of memory out of 3000000
- 6963 multiletter control sequences out of 15000+200000
+ 3178 strings out of 492966
+ 42197 string characters out of 3135724
+ 108693 words of memory out of 3000000
+ 6964 multiletter control sequences out of 15000+200000
  33305 words of font info for 81 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,27p,1375b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,8n,27p,1618b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/
 base/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cm
 ex9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><
@@ -452,7 +449,7 @@ ublic/amsfonts/cm/cmsy9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courie
 r/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "Final Report_DRAFT.pdf" (3 pages, 150546 bytes).
+Output written on "Final Report_DRAFT.pdf" (3 pages, 151952 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
